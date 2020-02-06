@@ -91,7 +91,9 @@ Year | Award | Category
 ---
 
 # Links
-[ResearchGate](https://researchgate.net/profile/Anin_Puthukkudy2)
-[Google Scholar](https://scholar.google.com/citations?user=jxOxXa8AAAAJ&hl=en&oi=ao)
-[LinkedIn](https://www.linkedin.com/in/anin-puthukkudy-04a87536/)
+* [ResearchGate](https://researchgate.net/profile/Anin_Puthukkudy2)
+
+* [Google Scholar](https://scholar.google.com/citations?user=jxOxXa8AAAAJ&hl=en&oi=ao)
+
+* [LinkedIn](https://www.linkedin.com/in/anin-puthukkudy-04a87536/)
 
