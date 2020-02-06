@@ -8,6 +8,10 @@ Hi! I am a Ph.D. Atmospheric Physics student at University of Maryland Baltimore
 
 # Research Interest
 
+* Research, design, develop, implement,and support decision-science models
+* Aerosol measurement and instrumentation
+* Remote sensing of aerosols and clouds using multi-angle imaging polarimeters
+
 
 
 # Publications
