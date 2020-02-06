@@ -40,6 +40,34 @@ Rainbow Polarimeter (AirHARP) observations during ACEPOL 2017"* To be submitted 
 
 1. Espinosa, R., Remer, L., **Puthukkudy, A.**, Orozco, D., Dubovik, O. and Martins, J.V., 2017, December. *Airborne characterization of aerosols over the contiguous United States during the SEAC4RS and DC3 campaigns: an in situ light scattering perspective*. In AGU Fall Meeting Abstracts.
 
+# Education
+* Ph.D. Candidate in Atmospheric Physics (Degree expected in Fall 2020)
+~~~
+University of Maryland Baltimore County, USA
+
+Thesis: Retrieval of aerosol optical properties using polarimetric laboratory measurements and remote sensing observations
+
+Completed PhD candidacy in 2018
+
+Advisor:Prof. J. Vanderlei Martins
+~~~
+
+* Masters in Atmospheric Physics (December 2016)
+
+~~~
+University of Maryland Baltimore County, USA
+~~~
+
+* Bachelor of Technology in Engineering Physics (Decemebr 2013)
+
+~~~
+National Institute of Techonolgy, Calicut
+
+Thesis: Incoherent Broadband Cavity Enhanced Absorption Spectroscopy for the detection of trace gases using deep red LED
+
+Advisor:Prof. M K Ravi Varma
+~~~
+
 # Awards and Recognition
 
 Year | Award | Category
