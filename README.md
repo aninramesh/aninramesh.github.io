@@ -1,5 +1,5 @@
 ## About Me
-<img src="sherlock.jpg">
+<img src="anin.jpg">
 
 Hi! I am a Ph.D. Atmospheric Physics student at University of Maryland Baltimore County, USA
 
