@@ -1,9 +1,16 @@
 ## About Me
 Hi! I am a Ph.D. Atmospheric Physics student at University of Maryland Baltimore County, USA
 You can use the [editor on GitHub](https://github.com/aninramesh/aninramesh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+<img class="profile-picture" src="sherlock.jpg">
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Interest
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+
+## Publications
+
+1. F.Bar, J.Doe: Effects of having a placeholder of a name
+2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
