@@ -14,7 +14,9 @@ Hi! I am a Ph.D. Atmospheric Physics student at University of Maryland Baltimore
 
 1. **Puthukkudy, A.**, Martins, J. V., ....*"Retrieval of aerosol properties from Airborne Hyper Angular
 Rainbow Polarimeter (AirHARP) observations during ACEPOL 2017"* To be submitted to AMT
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+2. Knobelspiesse, K. D., Cook, A. L., Hair, J. W., Harper, D. B., Hostetler, C. A., Maring, H., ...,**Puthukkudy, A**.,...Tan, Q. (2019). *"The Aerosol Characterization from Polarimeter and Lidar (ACEPOL) airborne field campaign"*. BAMS(submitted to BAMS).
+3. Espinosa, W.R., Martins, J.V., Remer, L.A., Dubovik, O., Lapyonok, T., Fuertes, D., **Puthukkudy, A.**, Orozco, D., Ziemba, L., Thornhill, K.L. and Levy, R., 2019. *Retrievals of Aerosol Size Distribution, Spherical Fraction, and Complex Refractive Index From Airborne In Situ Angular Light Scattering and Absorption Measurements*. Journal of Geophysical Research: Atmospheres, 124(14), pp.7997-8024.
+4. Espinosa, W.R., Martins, J.V., Remer, L.A., **Puthukkudy, A.**, Orozco, D. and Dolgos, G., 2018. *In situ measurements of angular-dependent light scattering by aerosols over the contiguous United States*. Atmospheric Chemistry and Physics, 18(5), pp.3737-3754.
 ### Markdown
 
 
