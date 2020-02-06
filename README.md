@@ -71,6 +71,14 @@ Advisor:Prof. M K Ravi Varma
 
 ~~~
 
+# Computer Skills
+
+Expertise | Language  or Software |
+----------|-----------------------|
+Basic     | C, C++, HTML, BASH, FORTRAN 90, LATEX |
+Intermediate | SOLIDWORKS, LabVIEW |
+Expert | MATLAB, Python |
+
 # Awards and Recognition
 
 Year | Award | Category
