@@ -88,3 +88,10 @@ Year | Award | Category
 2013 | Excellent Intern | Won Best Intern award from Banyan Scientific
 2010-2013 | E-grantz fellow | Won fellowship for the undergraduates by Kerala state government
 
+---
+
+# Links
+[ResearchGate](https://researchgate.net/profile/Anin_Puthukkudy2)
+[Google Scholar](https://scholar.google.com/citations?user=jxOxXa8AAAAJ&hl=en&oi=ao)
+[LinkedIn](https://www.linkedin.com/in/anin-puthukkudy-04a87536/)
+
