@@ -1,6 +1,10 @@
 ## About Me
 <img src="anin.png"
-        height= "200">
+        height= "200"
+        float="right"
+        position="relative"
+        border-radius="50%"
+        >
 
 Hi! I am a Ph.D. Atmospheric Physics student at University of Maryland Baltimore County, USA
 
