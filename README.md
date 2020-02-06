@@ -36,7 +36,7 @@ Rainbow Polarimeter (AirHARP) observations during ACEPOL 2017"* To be submitted 
 
 1. Espinosa, R., Remer, L., Martins, J.V., Dubovik, O., Lapyonok, T., Fuertes, D., **Puthukkudy, A.**, Orozco, D. and Levy, R.C., 2018, December. *Aerosol Size Distribution, Complex Refractive Index and Spherical Fraction Retrieved from Airborne In Situ Angular Light Scattering and Absorption Measurements*. In AGU Fall Meeting Abstracts.
 
-1. **Puthukkudy, A.**, Espinosa, R., Lima, A.R., Remer, L., Colarco, P., Whelley, P., Krotkov, N., Young, K., Dubovik, O., Wallace, K. and Martins, J.V., 2017, December. *Microphysical Properties of Alaskan Volcanic Ash*. In AGU Fall Meeting Abstracts. [Poster PDF](!attachments/aerosat_2018.pdf)
+1. **Puthukkudy, A.**, Espinosa, R., Lima, A.R., Remer, L., Colarco, P., Whelley, P., Krotkov, N., Young, K., Dubovik, O., Wallace, K. and Martins, J.V., 2017, December. *Microphysical Properties of Alaskan Volcanic Ash*. In AGU Fall Meeting Abstracts. [Poster PDF](attachments/aerosat_2018.pdf)
 
 1. Espinosa, R., Remer, L., **Puthukkudy, A.**, Orozco, D., Dubovik, O. and Martins, J.V., 2017, December. *Airborne characterization of aerosols over the contiguous United States during the SEAC4RS and DC3 campaigns: an in situ light scattering perspective*. In AGU Fall Meeting Abstracts.
 
