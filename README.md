@@ -1,9 +1,8 @@
 ## About Me
 
 <img src="anin.png"
-        height= "200"
-        float="center"
-        border-radius="50%">
+        height= "300">
+
 
 Hi! I am a Ph.D. Atmospheric Physics student at University of Maryland Baltimore County, USA
 
@@ -13,7 +12,8 @@ Hi! I am a Ph.D. Atmospheric Physics student at University of Maryland Baltimore
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
+1. **Puthukkudy, A.**, Martins, J. V., ....*"Retrieval of aerosol properties from Airborne Hyper Angular
+Rainbow Polarimeter (AirHARP) observations during ACEPOL 2017"* To be submitted to AMT
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 ### Markdown
 
