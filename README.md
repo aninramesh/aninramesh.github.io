@@ -32,20 +32,20 @@ Rainbow Polarimeter (AirHARP) observations during ACEPOL 2017"* To be submitted 
 
 1. **Puthukkudy, Anin** et. al *Retrieval of aerosol properties from Airborne Hyper-Angular Rainbow Polarimeter (AirHARP) observations during the 2017 ACEPOL campaign* in Advancement of POLarimetric Observations: instruments, calibration, and improved aerosol and cloud retrievals(APOLO) - 2019 (Talk)
 
-1. **Puthukkudy, A.**, McBride, B., Remer, L., Martins, J.V., Barbosa, H.M. and Dubovik, O., 2018, December. Retrieval of Aerosol properties using GRASP from AirHARP observations. In AGU Fall Meeting 2018. AGU.
+1. **Puthukkudy, A.**, McBride, B., Remer, L., Martins, J.V., Barbosa, H.M. and Dubovik, O., 2018, December. *Retrieval of Aerosol properties using GRASP from AirHARP observations*. In AGU Fall Meeting 2018. AGU.
 
-1. Espinosa, R., Remer, L., Martins, J.V., Dubovik, O., Lapyonok, T., Fuertes, D., **Puthukkudy, A.**, Orozco, D. and Levy, R.C., 2018, December. Aerosol Size Distribution, Complex Refractive Index and Spherical Fraction Retrieved from Airborne In Situ Angular Light Scattering and Absorption Measurements. In AGU Fall Meeting Abstracts.
+1. Espinosa, R., Remer, L., Martins, J.V., Dubovik, O., Lapyonok, T., Fuertes, D., **Puthukkudy, A.**, Orozco, D. and Levy, R.C., 2018, December. *Aerosol Size Distribution, Complex Refractive Index and Spherical Fraction Retrieved from Airborne In Situ Angular Light Scattering and Absorption Measurements*. In AGU Fall Meeting Abstracts.
 
-1. **Puthukkudy, A.**, Espinosa, R., Lima, A.R., Remer, L., Colarco, P., Whelley, P., Krotkov, N., Young, K., Dubovik, O., Wallace, K. and Martins, J.V., 2017, December. Microphysical Properties of Alaskan Volcanic Ash. In AGU Fall Meeting Abstracts.
+1. **Puthukkudy, A.**, Espinosa, R., Lima, A.R., Remer, L., Colarco, P., Whelley, P., Krotkov, N., Young, K., Dubovik, O., Wallace, K. and Martins, J.V., 2017, December. *Microphysical Properties of Alaskan Volcanic Ash*. In AGU Fall Meeting Abstracts.
 
-1. Espinosa, R., Remer, L., **Puthukkudy, A.**, Orozco, D., Dubovik, O. and Martins, J.V., 2017, December. Airborne characterization of aerosols over the contiguous United States during the SEAC4RS and DC3 campaigns: an in situ light scattering perspective. In AGU Fall Meeting Abstracts.
+1. Espinosa, R., Remer, L., **Puthukkudy, A.**, Orozco, D., Dubovik, O. and Martins, J.V., 2017, December. *Airborne characterization of aerosols over the contiguous United States during the SEAC4RS and DC3 campaigns: an in situ light scattering perspective*. In AGU Fall Meeting Abstracts.
 
 # Awards and Recognition
 
 Year | Award | Category
 -----|-------|--------
 2019 | Travel Fellowship | Received travel fellowship to attend APOLO19 (NASA-GISS, University of IOWA)
-2017-18 | Graduate Student Fellowship|  Joint Center for Earth Systems Technology, UMBC
+2017-2018 | Graduate Student Fellowship|  Joint Center for Earth Systems Technology, UMBC
 2013 | Excellent Intern | Won Best Intern award from Banyan Scientific
-2010-13 | E-grantz fellow | Won fellowship for the undergraduates by Kerala state government
+2010-2013 | E-grantz fellow | Won fellowship for the undergraduates by Kerala state government
 
