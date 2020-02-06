@@ -49,6 +49,3 @@ Year | Award | Category
 2013 | Excellent Intern | Won Best Intern award from Banyan Scientific
 2010-13 | E-grantz fellow | Won fellowship for the undergraduates by Kerala state government
 
-
-
-[Link](url) and ![Image](src)
