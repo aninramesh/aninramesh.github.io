@@ -30,7 +30,7 @@ Rainbow Polarimeter (AirHARP) observations during ACEPOL 2017"* To be submitted 
 
 ## Conferences
 
-1. **Puthukkudy, Anin** et. al *Retrieval of aerosol properties from Airborne Hyper-Angular Rainbow Polarimeter (AirHARP) observations during the 2017 ACEPOL campaign* in Advancement of POLarimetric Observations: instruments, calibration, and improved aerosol and cloud retrievals(APOLO) - 2019 (Talk)
+1. **Puthukkudy, Anin** et. al *Retrieval of aerosol properties from Airborne Hyper-Angular Rainbow Polarimeter (AirHARP) observations during the 2017 ACEPOL campaign* in Advancement of POLarimetric Observations: instruments, calibration, and improved aerosol and cloud retrievals(APOLO) - 2019 ([Talk](https://www.giss.nasa.gov/staff/mmishchenko/APOLO-2/Abstracts/Puthukkudy.pdf))
 
 1. **Puthukkudy, A.**, McBride, B., Remer, L., Martins, J.V., Barbosa, H.M. and Dubovik, O., 2018, December. *Retrieval of Aerosol properties using GRASP from AirHARP observations*. In AGU Fall Meeting 2018. AGU.
 
