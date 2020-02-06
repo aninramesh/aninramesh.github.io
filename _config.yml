@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 title: Anin Puthukkudy
+url: "https://aninramesh.github.io"
+nav:
+ - name: "About"
+   link: "https://aninramesh.github.io"
