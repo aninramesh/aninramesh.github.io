@@ -95,5 +95,5 @@ Year | Award | Category
 
 * [Google Scholar](https://scholar.google.com/citations?user=jxOxXa8AAAAJ&hl=en&oi=ao)
 
-* [LinkedIn](https://www.linkedin.com/in/anin-puthukkudy-04a87536/)
+* [LinkedIn](https://www.linkedin.com/in/anin-puthukkudy/)
 
