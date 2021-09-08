@@ -1,10 +1,12 @@
 # About Me
 
 <img src="anin.png"
-        height= "300">
+        align="left" height= "300">
 
 
 Hi! I am a Ph.D. Atmospheric Physics student at University of Maryland Baltimore County, USA. I consider myself a research assistant with a demonstrated history of working in aerosol measurement and instrumentation and a strong research professional skilled in Matlab, Python, and other programming languages.
+
+<br clear="left"/>
 
 # Research Interest
 
