@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Anin Puthukkudy
 description: Ph.D. in Atmospheric Physics (UMBC)
 url: "https://aninramesh.github.io"
