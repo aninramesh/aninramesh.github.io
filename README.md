@@ -46,11 +46,11 @@ Rainbow Polarimeter (AirHARP) observations during ACEPOL 2017" AMTD-2020-64 [lin
 
 # Education
 ~~~
-Ph.D. Candidate in Atmospheric Physics (Degree expected in Fall 2020)
+Ph.D. in Atmospheric Physics (Fall 2021)
 
 University of Maryland Baltimore County, USA
 
-Thesis: Retrieval of aerosol optical properties using polarimetric laboratory measurements and remote sensing observations
+Thesis: Retrieval of aerosol properties using Polarized Imaging Nephelometer (PI-Neph) laboratory measurements and Hyper-Angular Rainbow Polarimeter (HARP) remote sensing observations
 
 Completed PhD candidacy in 2018
 
