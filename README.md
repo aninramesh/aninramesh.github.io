@@ -4,7 +4,7 @@
         align="left" height= "300">
 
 
-Hi! I am a Ph.D. Atmospheric Physics student at University of Maryland Baltimore County, USA. I consider myself a research assistant with a demonstrated history of working in aerosol measurement and instrumentation and a strong research professional skilled in Matlab, Python, and other programming languages.
+Hi! I am a Ph.D. Atmospheric Physics graduate from University of Maryland Baltimore County, USA. I am a researcher with a demonstrated history of working in aerosol measurement and instrumentation and a strong research professional skilled in Matlab, Python, and other programming languages.
 
 <br clear="left"/>
 
