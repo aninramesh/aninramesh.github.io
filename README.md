@@ -1,7 +1,7 @@
-# About Me
+# Anin Puthukkudy 
 
 <img src="anin.png"
-        align="left" height= "300">
+        align="right" height= "300">
 
 
 Hi! I am a Ph.D. Atmospheric Physics graduate from University of Maryland Baltimore County, USA. I am a researcher with a demonstrated history of working in aerosol measurement and instrumentation and a strong research professional skilled in Matlab, Python, and other programming languages.
