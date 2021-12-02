@@ -19,6 +19,8 @@ Hi! I am a Ph.D. Atmospheric Physics graduate from University of Maryland Baltim
 # Publications
 
 ## Peer reviewed
+1. Dubovik, O., ..., **Puthukkudy, A.**, ... *"A Comprehensive Description of Multi-Term LSM for Applying Multiple a Priori Constraints in Problems of Atmospheric Remote Sensing: GRASP Algorithm, Concept, and Applications."* Front. Remote Sens. 2: 706851. doi: 10.3389/frsen (2021).
+
 1. **Puthukkudy, A.**, Martins, J. V., ....*"Retrieval of aerosol properties from Airborne Hyper Angular
 Rainbow Polarimeter (AirHARP) observations during ACEPOL 2017" AMTD-2020-64 [link](https://www.atmos-meas-tech-discuss.net/amt-2020-64/)
 
