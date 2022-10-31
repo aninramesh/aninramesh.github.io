@@ -4,7 +4,9 @@
         align="right" height= "300">
 
 
-Hi! I am a Ph.D. Atmospheric Physics graduate from University of Maryland Baltimore County, USA. I am a researcher with a demonstrated history of working in aerosol measurement and instrumentation and a strong research professional skilled in Matlab, Python, and other programming languages.
+Hello! I am a Ph.D. graduate in atmospheric physics from the University of Maryland Baltimore County, USA, with experience in aerosol measurement and instrumentation, as well as expertise in Matlab, Python, and other programming languages. I am interested in aerosol remote sensing and inverse methods for determining aerosol properties using multi-angle polarimetric observations. In addition to my extensive experience working with the HARP family of polarimeter data, I have also worked with the GRASP algorithm to retrieve aerosol properties. 
+
+During my undergraduate studies in Physics, I worked on a project to build a cavity-based spectrometer for measuring trace gases in the atmosphere. When I joined UMBC as a graduate student in 2014, my research interests shifted to aerosol in situ and remote sensing measurements. Aside from research, I also enjoy backpacking in national forests, learning new technologies, and keeping up with current events.
 
 <br clear="left"/>
 
