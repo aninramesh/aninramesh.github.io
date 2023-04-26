@@ -4,9 +4,13 @@
         align="right" height= "300">
 
 
-Hello! I am a Ph.D. graduate in atmospheric physics from the University of Maryland Baltimore County, USA, with experience in aerosol measurement and instrumentation, as well as expertise in Matlab, Python, and other programming languages. I am interested in aerosol remote sensing and inverse methods for determining aerosol properties using multi-angle polarimetric observations. In addition to my extensive experience working with the HARP family of polarimeter data, I have also worked with the GRASP algorithm to retrieve aerosol properties. 
+Hello and welcome! I am a dedicated  Atmospheric Physicist holding a Ph.D. from the University of Maryland Baltimore County (UMBC), USA. My specialization lies in aerosol measurement and instrumentation, and I possess a strong foundation in programming languages such as Matlab and Python. I am particularly enthusiastic about the application of aerosol remote sensing techniques and the development of inverse methods to determine aerosol properties using multi-angle polarimetric observations.
 
-During my undergraduate studies in Physics, I worked on a project to build a cavity-based spectrometer for measuring trace gases in the atmosphere. When I joined UMBC as a graduate student in 2014, my research interests shifted to aerosol in situ and remote sensing measurements. Aside from research, I also enjoy backpacking in national forests, learning new technologies, and keeping up with current events.
+Throughout my academic journey, I have amassed extensive experience working with the HARP family of polarimeter data, and have successfully employed the GRASP algorithm to retrieve aerosol properties. My foray into this field began during my undergraduate studies in Physics when I contributed to a project focused on constructing a cavity-based spectrometer for the purpose of measuring trace gases in the atmosphere.
+
+Upon joining UMBC as a graduate student in 2014, my research interests evolved to encompass both in situ and remote sensing measurements of aerosols. Beyond my passion for atmospheric research, I am an avid backpacker who loves exploring national forests, an enthusiastic learner always eager to acquire new technological skills, and an informed individual who keeps abreast of current events.
+
+As a valued member of our team, I bring an unwavering commitment to advancing the understanding of aerosols and their impact on the environment. My goal is to contribute significantly to the development of cutting-edge remote sensing techniques and to the broader scientific community, while inspiring others to explore and appreciate the wonders of atmospheric physics
 
 <br clear="left"/>
 
@@ -22,6 +26,8 @@ During my undergraduate studies in Physics, I worked on a project to build a cav
 
 ## Peer reviewed
 1. Dubovik, O., ..., **Puthukkudy, A.**, ... *"A Comprehensive Description of Multi-Term LSM for Applying Multiple a Priori Constraints in Problems of Atmospheric Remote Sensing: GRASP Algorithm, Concept, and Applications."* Front. Remote Sens. 2: 706851. doi: 10.3389/frsen (2021).
+
+1. Gao, M., ... , **Puthukkudy, A.**, ... *"Efficient multi-angle polarimetric inversion of aerosols and ocean color powered by a deep neural network forward model"*, Atmos. Meas. Tech., 14, 4083–4110, [link](https://doi.org/10.5194/amt-14-4083-2021), 2021.
 
 1. **Puthukkudy, A.**, Martins, J. V., ....*"Retrieval of aerosol properties from Airborne Hyper Angular
 Rainbow Polarimeter (AirHARP) observations during ACEPOL 2017" AMTD-2020-64 [link](https://www.atmos-meas-tech-discuss.net/amt-2020-64/)
