@@ -22,7 +22,8 @@ As a valued member of our team, I am committed to advancing the understanding of
 * Aerosol measurement and instrumentation
 * Remote sensing of aerosols and clouds using multi-angle imaging polarimeters
 
-
+# News
+* [CIDER 2024 Award](https://esi.umbc.edu/post/146857/)
 
 # Publications
 
