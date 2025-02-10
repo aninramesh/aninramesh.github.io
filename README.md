@@ -114,6 +114,7 @@ Expert | MATLAB, Python |
 
 Year | Award | Category
 -----|-------|--------
+2025 | CIDER2024 | An AI-driven approach for retrieving aerosol and surface properties from HARP family of multi-angle polarimeter measurements |
 2019 | Travel Fellowship | Received travel fellowship to attend APOLO19 (NASA-GISS, University of IOWA)
 2017-2018 | [Graduate Student Fellowship](https://jcet.umbc.edu/?id=68416) |  Joint Center for Earth Systems Technology, UMBC
 2013 | Best Intern | Won Best Intern award from Banyan Scientific
