@@ -4,13 +4,15 @@
         align="right" height= "300">
 
 
-Hello and welcome! I am a dedicated  Atmospheric Physicist holding a Ph.D. from the University of Maryland Baltimore County (UMBC), USA. My specialization lies in aerosol measurement and instrumentation, and I possess a strong foundation in programming languages such as Matlab and Python. I am particularly enthusiastic about the application of aerosol remote sensing techniques and the development of inverse methods to determine aerosol properties using multi-angle polarimetric observations.
+Hello,
 
-Throughout my academic journey, I have amassed extensive experience working with the HARP family of polarimeter data, and have successfully employed the GRASP algorithm to retrieve aerosol properties. My foray into this field began during my undergraduate studies in Physics when I contributed to a project focused on constructing a cavity-based spectrometer for the purpose of measuring trace gases in the atmosphere.
+I am a dedicated Atmospheric Physicist holding a Ph.D. from the University of Maryland Baltimore County (UMBC), USA. My area of expertise lies in aerosol measurement and instrumentation, and I possess a strong foundation in programming languages such as Matlab and Python. I am particularly enthusiastic about the application of aerosol remote sensing techniques and the development of inverse methods to determine aerosol properties using multi-angle polarimetric observations.
 
-Upon joining UMBC as a graduate student in 2014, my research interests evolved to encompass both in situ and remote sensing measurements of aerosols. Beyond my passion for atmospheric research, I am an avid backpacker who loves exploring national forests, an enthusiastic learner always eager to acquire new technological skills, and an informed individual who keeps abreast of current events.
+Throughout my academic career, I have accumulated extensive experience working with the HARP family of polarimeter data, and I have successfully employed the GRASP algorithm to retrieve aerosol properties. My interest in this field began during my undergraduate studies in Physics when I contributed to a project focused on constructing a cavity-based spectrometer for the purpose of measuring trace gases in the atmosphere.
 
-As a valued member of our team, I bring an unwavering commitment to advancing the understanding of aerosols and their impact on the environment. My goal is to contribute significantly to the development of cutting-edge remote sensing techniques and to the broader scientific community, while inspiring others to explore and appreciate the wonders of atmospheric physics
+Upon joining UMBC as a graduate student in 2014, my research interests expanded to encompass both in situ and remote sensing measurements of aerosols. Beyond my passion for atmospheric research, I am an avid backpacker who enjoys exploring national forests, an enthusiastic learner always eager to acquire new technological skills, and an informed individual who remains abreast of current events.
+
+As a valued member of our team, I am committed to advancing the understanding of aerosols and their impact on the environment. My goal is to contribute significantly to the development of cutting-edge remote sensing techniques and to the broader scientific community, while inspiring others to explore and appreciate the wonders of atmospheric physics.
 
 <br clear="left"/>
 
@@ -25,6 +27,16 @@ As a valued member of our team, I bring an unwavering commitment to advancing th
 # Publications
 
 ## Peer reviewed
+1. McBride, B. A., Martins, J. V., Cieslak, J. D., Fernandez-Borda, R., **Puthukkudy, A.**, Xu, X., Sienkiewicz, N., Cairns, B., and Barbosa, H. M. J.: Pre-launch calibration and validation of the Airborne Hyper-Angular Rainbow Polarimeter (AirHARP) instrument, Atmos. Meas. Tech., 17, 5709–5729, https://doi.org/10.5194/amt-17-5709-2024, 2024
+
+1. Sienkiewicz, N., Martins, J. V., McBride, B. A., Xu, X., **Puthukkudy, A.**, Smith, R., and Fernandez-Borda, R.: HARP2 Pre-Launch Calibration Overview: The Effects of a Wide Field of View, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-2024, 2024.
+  
+1. McBride, B. A., Sienkiewicz, N., Xu, X., **Puthukkudy, A.**, Fernandez-Borda, R., & Martins, J. V. (2024, November). In-flight characterization of the Hyper-Angular Rainbow Polarimeter (HARP2) on the NASA PACE mission. In Sensors, Systems, and Next-Generation Satellites XXVIII (Vol. 13192, pp. 113-122). SPIE.
+
+1. Martins, J. V., Fernandez-Borda, R. A., **Puthukkudy, A.**, Xu, X., Sienkiewicz, N., Smith, R., ... & Remer, L. A. (2024, November). First results and on-orbit performance of the Hyper-Angular Rainbow Polarimeter (HARP2) on the PACE satellite. In Sensors, Systems, and Next-Generation Satellites XXVIII (Vol. 13192, pp. 42-51). SPIE.
+
+2. Gao, M., Franz, B. A., Zhai, P.-W., Knobelspiesse, K., Sayer, A. M., Xu, X., Martins, J. V., Cairns, B., Castellanos, P., Fu, G., Hannadige, N., Hasekamp, O., Hu, Y., Ibrahim, A., Patt, F., **Puthukkudy, A.**, and Werdell, P. J.: Simultaneous retrieval of aerosol and ocean properties from PACE HARP2 with uncertainty assessment using cascading neural network radiative transfer models, Atmos. Meas. Tech., 16, 5863–5881, https://doi.org/10.5194/amt-16-5863-2023, 2023.
+
 1. Dubovik, O., ..., **Puthukkudy, A.**, ... *"A Comprehensive Description of Multi-Term LSM for Applying Multiple a Priori Constraints in Problems of Atmospheric Remote Sensing: GRASP Algorithm, Concept, and Applications."* Front. Remote Sens. 2: 706851. doi: 10.3389/frsen (2021).
 
 1. Gao, M., ... , **Puthukkudy, A.**, ... *"Efficient multi-angle polarimetric inversion of aerosols and ocean color powered by a deep neural network forward model"*, Atmos. Meas. Tech., 14, 4083–4110, [link](https://doi.org/10.5194/amt-14-4083-2021), 2021.
